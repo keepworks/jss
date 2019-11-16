@@ -43,7 +43,7 @@
     "css-jss": "10.0.0-alpha.27",
     "hoist-non-react-statics": "^3.2.0",
     "is-in-browser": "^1.1.3",
-    "jss": "10.0.0-alpha.27",
+    "jss": "https://github.com/keepworks/jss.git#jss-v10.0.0-alpha.27-gitpkg",
     "jss-preset-default": "10.0.0-alpha.27",
     "prop-types": "^15.6.0",
     "shallow-equal": "^1.2.0",
